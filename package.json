@@ -1,0 +1,13 @@
+{
+  "name": "javascript-functions",
+  "version": "1.0.0",
+  "description": "",
+  "main": "BudgetFunctions.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs"
+}
